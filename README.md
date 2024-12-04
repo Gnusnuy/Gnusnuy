@@ -20,22 +20,31 @@ Here are some ideas to get you started:
 성장하는 개발자, 강윤성입니다.
 
 ### SKILLS
-**Langs and Frameworks**  
-![openjdk](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk) ![spring](https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=spring&logoColor=%23FFFFFF) ![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF
-) ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF
+**Backend Language**  
+![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk
+) ![spring](https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=spring&logoColor=%23FFFFFF
+) ![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF
+) ![ORACLE](https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=%23FFFFFF
+)  
+
+**Frontend Language**  
+![JAVASCRIPT](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF
 ) ![HTML](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23FFFFFF
-) ![CSS](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=%23FFFFFF) ![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23FFFFFF) ![ORACLE](https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=%23FFFFFF
-) ![NOTION](https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=%23FFFFFF
+) ![CSS](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=%23FFFFFF
+) ![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23FFFFFF
+)  
+
+**collaboration Tool**  
+![NOTION](https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=%23FFFFFF
 ) ![GITHUB](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFFFF
-) ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]()
+) ![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=FFFFFF)
+![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]()
 
-
+**IDE TOOL**  
+![Intellij](https://img.shields.io/badge/intellijidea-0071C5?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF
+) ![Eclipse](https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=FFFFFF
+) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnusnuy&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
-
 ![gnusnuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnusnuy&show_icons=true&theme=tokyonight)  
-
-**Interests**
-**Infra/Tools**
-
 
