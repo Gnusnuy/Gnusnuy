@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Input%20text)
+![Header](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Hello,%20Yun%20Sung)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGnusnuy&count_bg=%232059E1&title_bg=%234BC1F5&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
